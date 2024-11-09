@@ -67,7 +67,7 @@ export const users: TwitterUser[] = [
   {
     handle: '@marc_louvion',
     name: 'marc_louvion',
-    category: ['Tech', 'AI', 'Saas'],
+    category: ['Tech', 'AI', 'Saas','indie'],
     avatar: 'https://pbs.twimg.com/profile_images/1514863683574599681/9k7PqDTA_400x400.jpg',
     bio: '📈 http://DataFa.st (new)',
     followers: '136.5K'
