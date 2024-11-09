@@ -63,6 +63,14 @@ export const users: TwitterUser[] = [
     avatar: 'https://pbs.twimg.com/profile_images/1589756412078555136/YlXMBzhp_400x400.jpg',
     bio: '📸http://PhotoAI.com $139K/m',
     followers: '571.7K'
+  },
+  {
+    handle: '@marc_louvion',
+    name: 'marc_louvion',
+    category: ['Tech', 'AI', 'Saas'],
+    avatar: 'https://pbs.twimg.com/profile_images/1514863683574599681/9k7PqDTA_400x400.jpg',
+    bio: '📈 http://DataFa.st (new)',
+    followers: '136.5K'
   }
 ];
 
