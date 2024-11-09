@@ -36,7 +36,7 @@ export const users: TwitterUser[] = [
     handle: '@VitalikButerin',
     name: 'Vitalik Buterin',
     category: ['Crypto', 'Tech', 'Blockchain'],
-    avatar: 'https://pbs.twimg.com/profile_images/977496875887558661/L86xyLF4_400x400.jpg',
+    avatar: 'https://pbs.twimg.com/profile_images/1748153260203229184/sXJIGMBk_400x400.jpg',
     bio: 'Ethereum co-founder. Cryptocurrency and blockchain pioneer',
     followers: '4.9M'
   },
@@ -44,7 +44,7 @@ export const users: TwitterUser[] = [
     handle: '@balajis',
     name: 'Balaji',
     category: ['Tech', 'Crypto', 'Future'],
-    avatar: 'https://pbs.twimg.com/profile_images/1654236492098178048/SsuDzo_v_400x400.jpg',
+    avatar: 'https://pbs.twimg.com/profile_images/1406974882919813128/LOUb2m4R_400x400.jpg',
     bio: 'Author of The Network State, technology entrepreneur and investor',
     followers: '780K'
   },

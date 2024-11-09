@@ -22,7 +22,7 @@ function App() {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-3">
               <Users className="w-8 h-8 text-blue-500" />
-              <h1 className="text-2xl font-bold text-gray-900">Twitter Directory</h1>
+              <h1 className="text-2xl font-bold text-gray-900">X Directory</h1>
             </div>
             <div className="relative">
               <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 w-5 h-5" />
