@@ -17,12 +17,25 @@ function App() {
 
   return (
     <div className="min-h-screen bg-gray-50">
+      <div className="bg-gradient-to-r from-blue-600 to-blue-800 pb-6">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
+          <div className="text-center mb-8">
+            <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">
+              X Directory Worth Following
+            </h1>
+            <p className="text-lg text-blue-100 max-w-2xl mx-auto">
+              Discover influential voices across tech, business, science, and more
+            </p>
+          </div>
+        </div>
+      </div>
+
       <header className="bg-white shadow-sm">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-3">
               <Users className="w-8 h-8 text-blue-500" />
-              <h1 className="text-2xl font-bold text-gray-900">X Directory</h1>
+              <h2 className="text-2xl font-bold text-gray-900">X Directory</h2>
             </div>
             <div className="relative">
               <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 w-5 h-5" />
