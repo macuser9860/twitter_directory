@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { Users, Search } from 'lucide-react';
 import { users, categories } from './data/users';
 import { UserCard } from './components/UserCard';
+import Footer from './components/Footer';
 
 function App() {
   const [selectedCategory, setSelectedCategory] = useState<string>('');
@@ -89,6 +90,7 @@ function App() {
             <p className="text-gray-500 text-lg">No users found matching your criteria</p>
           </div>
         )}
+        <Footer></Footer>
       </main>
     </div>
   );
